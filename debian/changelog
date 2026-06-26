@@ -1,14 +1,9 @@
-gmp (2:6.3.0+dfsg-2deepin1) unstable; urgency=medium
+gmp (2:6.3.0+dfsg-3) unstable; urgency=medium
 
-  * update version for rebuild.
+  [ Steve Robbins ]
+  * [ac10b44] Apply upstream change.  Fixes: #1057344
 
- -- liujianqiang <liujianqiang@uniontech.com>  Thu, 05 Jun 2025 20:07:57 +0800
-
-gmp (2:6.3.0+dfsg-2deepin0) unstable; urgency=medium
-
-  * No source change upload against GCC 12.
-
- -- Tianyu Chen <sweetyfish@deepin.org>  Thu, 19 Sep 2024 22:48:33 +0800
+ -- Steve M. Robbins <smr@debian.org>  Sun, 01 Dec 2024 18:17:34 -0600
 
 gmp (2:6.3.0+dfsg-2) unstable; urgency=medium
 
