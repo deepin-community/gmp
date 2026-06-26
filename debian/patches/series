@@ -1,1 +1,2 @@
 Exclude-doc-Makefile.patch
+trust-vsprintf-return.patch
